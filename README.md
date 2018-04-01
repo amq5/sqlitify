@@ -10,7 +10,7 @@ Being run from command line, creates file urban-dict.db in current directory. Pr
 
 ### hagen-full.py
 
-Command line utility, usage python hagen-full.py "path/to/Ïîëíàÿ ïàðàäèãìà. Ìîðôîëîãèÿ.txt" path/to/sqlite.db
+Command line utility, usage python hagen-full.py "path/to/Полная парадигма. Морфология.txt" path/to/sqlite.db
 First argument is Russian morphology text file, it could be extracted from [here](http://www.speakrus.ru/dict/hagen-morph.rar) (RAR archive).
 Second argument is resulting DB, it will coontain table parsed_morpho with structure
 
